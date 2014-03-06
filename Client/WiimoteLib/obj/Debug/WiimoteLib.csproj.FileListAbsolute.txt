@@ -1,0 +1,10 @@
+C:\Users\TekuConcept\Desktop\stuff\Programming\WiimoteLib\samples\WiimoteLib\obj\Debug\WiimoteLib.csprojResolveAssemblyReference.cache
+C:\Users\TekuConcept\Desktop\stuff\Programming\WiimoteLib\samples\WiimoteLib\bin\Debug\WiimoteLib.dll
+C:\Users\TekuConcept\Desktop\stuff\Programming\WiimoteLib\samples\WiimoteLib\bin\Debug\WiimoteLib.pdb
+C:\Users\TekuConcept\Desktop\stuff\Programming\WiimoteLib\samples\WiimoteLib\obj\Debug\WiimoteLib.dll
+C:\Users\TekuConcept\Desktop\stuff\Programming\WiimoteLib\samples\WiimoteLib\obj\Debug\WiimoteLib.pdb
+C:\Users\TekuConcept\Dropbox\SocketServer\WiimoteLib\bin\Debug\WiimoteLib.dll
+C:\Users\TekuConcept\Dropbox\SocketServer\WiimoteLib\bin\Debug\WiimoteLib.pdb
+C:\Users\TekuConcept\Dropbox\SocketServer\WiimoteLib\obj\Debug\WiimoteLib.csprojResolveAssemblyReference.cache
+C:\Users\TekuConcept\Dropbox\SocketServer\WiimoteLib\obj\Debug\WiimoteLib.dll
+C:\Users\TekuConcept\Dropbox\SocketServer\WiimoteLib\obj\Debug\WiimoteLib.pdb
