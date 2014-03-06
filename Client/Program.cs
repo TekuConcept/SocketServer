@@ -12,7 +12,6 @@ namespace Sockets
     {
         static Wiimote wm = new Wiimote();
         static Socket sender;
-        static bool flag = true;
         static byte btnOld = 0x00;
 
         public static void StartClient()
@@ -99,7 +98,6 @@ namespace Sockets
                 {
                     int bytesSent = sender.Send(msg.ToArray());
                     Console.WriteLine("{2}\tx: {0}\ty: {1}", x, y, e.WiimoteState.ButtonState.B);
-                    if (e.WiimoteState.ButtonState.Home) { flag = false; return; }
 
                     // Receive the response from the remote device.
                     int bytesRec = sender.Receive(dIN);
@@ -116,7 +114,11 @@ namespace Sockets
         private static void EndConnection()
         {
             // Release the socket.
-            sender.Shutdown(SocketShutdown.Both);
+            try
+            {
+                sender.Shutdown(SocketShutdown.Both);
+            }
+            catch { }
             sender.Close();
         }
     }

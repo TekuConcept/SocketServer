@@ -1,8 +1,0 @@
-C:\Users\TekuConcept\Documents\Visual Studio 2013\Projects\Sockets\Sockets\bin\Debug\Sockets.exe.config
-C:\Users\TekuConcept\Documents\Visual Studio 2013\Projects\Sockets\Sockets\bin\Debug\Sockets.exe
-C:\Users\TekuConcept\Documents\Visual Studio 2013\Projects\Sockets\Sockets\bin\Debug\Sockets.pdb
-C:\Users\TekuConcept\Documents\Visual Studio 2013\Projects\Sockets\Sockets\obj\Debug\Sockets.csprojResolveAssemblyReference.cache
-C:\Users\TekuConcept\Documents\Visual Studio 2013\Projects\Sockets\Sockets\obj\Debug\Sockets.exe
-C:\Users\TekuConcept\Documents\Visual Studio 2013\Projects\Sockets\Sockets\obj\Debug\Sockets.pdb
-C:\Users\TekuConcept\Documents\Visual Studio 2013\Projects\Sockets\Sockets\bin\Debug\WiimoteLib.dll
-C:\Users\TekuConcept\Documents\Visual Studio 2013\Projects\Sockets\Sockets\bin\Debug\WiimoteLib.pdb
