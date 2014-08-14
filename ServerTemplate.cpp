@@ -1,10 +1,6 @@
-//============================================================================
-// Name        : SocketServer.cpp
-// Author      : TekuConcept
-// Version     : 1.0
-// Copyright   : Free to use. Give credit where credit is due!
-// Description : Socket server in C++, Ansi-style
-//============================================================================
+// This template is a compilation and simplified version of
+// a collection of online examples. It is to be used  as  a
+// building block in network programming.
 
 #include <iostream>     // time, ctime
 #include <cstdlib>      // exit
