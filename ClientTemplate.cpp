@@ -1,3 +1,7 @@
+// This template is a compilation and simplified version of
+// a collection of online examples. It is to be used  as  a
+// building block in network programming.
+
 #include <iostream>
 #include <cstring>      // Needed for memset
 #include <sys/socket.h> // Needed for the socket functions
